@@ -1,8 +1,9 @@
 # Image-Recognition
 ## by Ibrahim Patel
 
-![Alt Text](
-https://media.giphy.com/media/QxAcaW5HgmqYmW5QNh/giphy.gif)
+![Alt Text](https://media.giphy.com/media/1AiIaPuJNIKsk4N7dV/giphy.gif)
+
+
 
 # Executive Summary
 
@@ -45,9 +46,7 @@ https://media.giphy.com/media/QxAcaW5HgmqYmW5QNh/giphy.gif)
 
 Thankfully this dataset did not contain any null values. Overall this dataset was clean from the start so minimal cleaning had to be made. 
 
-<img width="205" alt="Screen Shot 2021-03-16 at 7 38 26 PM" src="https://user-images.githubusercontent.com/52756457/111398207-08be4800-8691-11eb-9d84-07b8a61856ce.png">
 
-<p>We can see that when we try to see the total number of nulls in each column we get a total of 0. This means that there are 0 null values in the dataset. Since the data is clean we can jump right into data preprocessing.</p>
 
 ## Exploratory Data Analysis <a name="exploratory_analysis"></a>
 
@@ -61,7 +60,7 @@ Thankfully this dataset did not contain any null values. Overall this dataset wa
 
 ## Modeling <a name="modeling"></a>
 
-![Alt Text](https://media.giphy.com/media/1zi2FQvx8c6jXZB9dm/giphy.gif)
+![Alt Text](https://media.giphy.com/media/eljCVpMrhepUSgZaVP/giphy.gif)
 
 
 ## Results <a name="results"></a>
