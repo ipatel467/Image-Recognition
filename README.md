@@ -43,7 +43,7 @@ For this project, I will mainly focus on detecting and classifying different spe
 ## Problem Statement <a name="problem_statement"></a>
 
 <p></p>
-In 2019 alone there have been roughly 165 million records of credit card fraud. This has more than doubled since the year 2017. I thought it would be interesting to create a machine learning model that could detect fraudulent transactions.
+I thought it would be interesting to create a nueral network model that could detect different flower species and be classified correctly.
 
 <p></p>
 
@@ -65,10 +65,19 @@ Thankfully this dataset did not contain any null values. Overall this dataset wa
 
 ![Alt Text](https://media.giphy.com/media/eljCVpMrhepUSgZaVP/giphy.gif)
 
+For the modeling processes I used Keras Neural Network to . 
+
+
+pics here
 
 ## Results <a name="results"></a>
 
+Here are the results of the Nueral Network.
 
+Post pic here
+
+
+pic here
 
 
 
