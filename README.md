@@ -30,7 +30,6 @@ For this project, I will mainly focus on detecting and classifying different spe
 # Content
 1. [Introduction](#introduction)
     - [Problem Statement](#problem_statement)
-    - [Dataset](#dataset)
 2. [Analysis](#analysis)
     - [Data Cleaning](#data_cleaning)
     - [Exploratory Data Analysis](#exploratory_analysis)
@@ -43,11 +42,10 @@ For this project, I will mainly focus on detecting and classifying different spe
 ## Problem Statement <a name="problem_statement"></a>
 
 <p></p>
-I thought it would be interesting to create a nueral network model that could detect different flower species and be classified correctly.
+I thought it would be interesting to create a nueral network model that could detect different flower species and be classified correctly. If this model can detect flowers correctly it can also detect different image correctly after its 
 
 <p></p>
 
-## Dataset <a name="dataset"></a>
 
 # Analysis <a name="analysis"></a>
 
@@ -65,7 +63,7 @@ Thankfully this dataset did not contain any null values. Overall this dataset wa
 
 ![Alt Text](https://media.giphy.com/media/eljCVpMrhepUSgZaVP/giphy.gif)
 
-For the modeling processes I used Keras Neural Network to . 
+For the modeling processes I used Keras Neural Network to detect different species of flowers. 
 
 
 pics here
@@ -73,6 +71,8 @@ pics here
 ## Results <a name="results"></a>
 
 Here are the results of the Nueral Network.
+
+Currently the model only predicts with a 23% accuracy. However, we can always try to change different parameters to see if we can achive better results.  
 
 Post pic here
 
