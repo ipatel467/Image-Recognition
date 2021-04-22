@@ -7,6 +7,7 @@
 
 # Executive Summary
 
+For this project, I will mainly focus on detecting and classifying different species of flowers from a flowers dataset. I will be creating a nueral network model that will be able to identify and classify different species of flowers.
 
 # Technologies Used
 
@@ -39,12 +40,12 @@
 # Introduction <a name="introduction"></a>
 
 
-<p></p>
-
-<p></p>
-
 ## Problem Statement <a name="problem_statement"></a>
 
+<p></p>
+In 2019 alone there have been roughly 165 million records of credit card fraud. This has more than doubled since the year 2017. I thought it would be interesting to create a machine learning model that could detect fraudulent transactions.
+
+<p></p>
 
 ## Dataset <a name="dataset"></a>
 
