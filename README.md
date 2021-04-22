@@ -42,7 +42,7 @@ For this project, I will mainly focus on detecting and classifying different spe
 ## Problem Statement <a name="problem_statement"></a>
 
 <p></p>
-I thought it would be interesting to create a nueral network model that could detect different flower species and be classified correctly. If this model can detect flowers correctly it can also detect different image correctly after its 
+I thought it would be interesting to create a nueral network model that could detect different flower species and be classified correctly. If this model can detect flowers correctly it can also detect different image correctly after it has had sufficient training data. 
 
 <p></p>
 
