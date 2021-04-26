@@ -57,6 +57,8 @@ Thankfully this dataset did not contain any null values. Overall this dataset wa
 
 ## Exploratory Data Analysis <a name="exploratory_analysis"></a>
 
+![Screen Shot 2021-04-26 at 1 27 25 PM](https://user-images.githubusercontent.com/52756457/116132819-9c713400-a693-11eb-8e0d-6fcfcc76db5e.png)
+
 
 
 ## Modeling <a name="modeling"></a>
