@@ -59,6 +59,8 @@ Thankfully this dataset did not contain any null values. Overall this dataset wa
 
 ![Screen Shot 2021-04-26 at 1 27 25 PM](https://user-images.githubusercontent.com/52756457/116132819-9c713400-a693-11eb-8e0d-6fcfcc76db5e.png)
 
+![Screen Shot 2021-04-26 at 1 27 06 PM](https://user-images.githubusercontent.com/52756457/116132868-a98e2300-a693-11eb-8e62-773ca985fa0d.png)
+
 
 
 ## Modeling <a name="modeling"></a>
@@ -76,7 +78,8 @@ Here are the results of the Nueral Network.
 
 Currently the model only predicts with a 23% accuracy. However, we can always try to change different parameters to see if we can achive better results.  
 
-Post pic here
+![Screen Shot 2021-04-26 at 1 26 33 PM](https://user-images.githubusercontent.com/52756457/116132918-b6127b80-a693-11eb-85e8-0aa756bc82f4.png)
+
 
 
 pic here
