@@ -70,13 +70,13 @@ Thankfully this dataset did not contain any null values. Overall this dataset wa
 For the modeling processes I used Keras Neural Network to detect different species of flowers. 
 
 
-pics here
+<img width="794" alt="Screen Shot 2021-04-29 at 11 16 42 PM" src="https://user-images.githubusercontent.com/52756457/116648253-3231eb00-a942-11eb-92a7-c31036a92b3b.png">
 
+The nueral network was built using several differnt layers. The model was soon compiled and we set cetrain parameters like accuracy for metrics. 
 ## Results <a name="results"></a>
 
 Here are the results of the Nueral Network.
 
-<img width="794" alt="Screen Shot 2021-04-29 at 11 16 42 PM" src="https://user-images.githubusercontent.com/52756457/116648253-3231eb00-a942-11eb-92a7-c31036a92b3b.png">
 
 
 <img width="564" alt="Screen Shot 2021-04-29 at 11 16 15 PM" src="https://user-images.githubusercontent.com/52756457/116648167-fc8d0200-a941-11eb-9c26-7aa37af8b1b1.png">
@@ -84,12 +84,11 @@ Here are the results of the Nueral Network.
 
 Currently the model only predicts with a 23% accuracy. However, we can always try to change different parameters to see if we can achive better results.  
 
+We can possibly achieve better resutls by performing some parameter tuning. This is where we change different parameters in the model to see how the results differ. 
 ![Screen Shot 2021-04-26 at 1 26 33 PM](https://user-images.githubusercontent.com/52756457/116132918-b6127b80-a693-11eb-85e8-0aa756bc82f4.png)
 
 
-
-pic here
-
+There is some work that needs to be done, but this is a great start to learning about Nueral Networks.
 
 
 
